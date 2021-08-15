@@ -1,0 +1,21 @@
+/* PC */
+@media(min-with: 1024px){
+
+}
+/* Table */
+@media(min-with: 740px) and (max-with:1023px){
+
+}
+/*Mobile*/
+@media(min-with: 740px){
+    #nav > li {
+        display: block;
+    }
+    #content .member-item{
+       width: 100%;
+    }
+    p.coppyright {
+        padding: 12px;
+        display: inline-block
+    }
+}
